@@ -1245,6 +1245,10 @@ img[loading="lazy"].loaded {
    ============================================ */
 
 @media (max-width: 767px) {
+    .hero {
+        padding-top: 20px;
+    }
+    
     .nav__toggle {
         display: flex;
     }
